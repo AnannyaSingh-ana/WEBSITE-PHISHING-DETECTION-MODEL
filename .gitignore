@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Dataset files
+*.csv
+
+# Model files
+*.pkl
+*.joblib
+
+# Logs
+*.log
